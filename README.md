@@ -126,6 +126,7 @@ Bu ilişkiler nedensellik olarak değil, veri içerisindeki ilişkiler ve modeli
 
 👉 [Telekom Sektöründe Müşteri Kaybının Tahmini: Uçtan Uca Bir Veri Bilimi Projesi](https://medium.com/@silasari/telekom-sekt%C3%B6r%C3%BCnde-m%C3%BC%C5%9Fteri-kayb%C4%B1n%C4%B1n-tahmini-u%C3%A7tan-uca-bir-veri-bilimi-projesi-09669211926e)
 
+<div align="center">
 
 ### 👤 Sıla Sarı
 🎓 **Dokuz Eylül Üniversitesi - Ekonometri**
