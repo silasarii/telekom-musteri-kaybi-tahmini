@@ -100,25 +100,25 @@ Bu ilişkiler nedensellik olarak değil, veri içerisindeki ilişkiler ve modeli
 
 ## 📁 Proje Yapısı
 
-```
+```text
 ├── data/
-│   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│   ├── telco_temiz.csv
-│   ├── X_train.csv
-│   ├── X_test.csv
-│   ├── y_train.csv
-│   ├── y_test.csv
-│   ├── model_karsilastirma.csv
-│   └── lojistik_regresyon_tahminleri.csv
-│
+│   ├── raw/
+│   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── processed/
+│       ├── telco_temiz.csv
+│       ├── x_train.csv
+│       ├── x_test.csv
+│       ├── y_train.csv
+│       ├── y_test.csv
+│       ├── lojistik_regresyon_tahminleri.csv
+│       └── model_karsilastirma.csv
 ├── notebooks/
-│   ├── 01_Veri_Setini_Tanıma.ipynb
-│   ├── 02_Veri_Temizleme.ipynb
-│   ├── 03_Kesifsel_Veri_Analizi.ipynb
-│   ├── 04_Veri_On_İsleme.ipynb
-│   ├── 05_Makine_Ogrenmesi_Modeli.ipynb
-│   └── 06_Model_Degerlendirmesi.ipynb
-│
+│   ├── 01-veri-setini-tanıma.ipynb
+│   ├── 02-veri-temizleme.ipynb
+│   ├── 03-kesifsel-veri-analizi.ipynb
+│   ├── 04-veri-on-isleme.ipynb
+│   ├── 05-makine-ogrenmesi-modeli.ipynb
+│   └── 06-model-degerlendirmesi.ipynb
 └── README.md
 ```
 
